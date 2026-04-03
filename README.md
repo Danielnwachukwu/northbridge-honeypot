@@ -38,5 +38,17 @@ Displays:
 
 ### 1. Clone repository
 ```bash
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Portal
+![Login](login.png)
+
+### 🚨 Telegram Alert
+![Alert](alert.png)
+
+
 git clone https://github.com/Danielnwachukwu/northbridge-honeypot.git
 cd northbridge-honeypot
