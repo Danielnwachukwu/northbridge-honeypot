@@ -28,11 +28,9 @@ Suspicious inputs are:
 
 ---
 
-## 📸 Demo
+## 🎥 Demo Video
 
-<video src="your-video-file.mp4" controls width="600"></video>
-
-> ⚠️ If video does not display on GitHub, view it directly in the repository.
+[![Watch Demo](login.png)](https://drive.google.com/file/d/1xEbtZuCA-xVHE1IJty3WpziNWyhvZQtR/view?usp=sharing)
 
 ---
 
